@@ -12,7 +12,7 @@ Capable of booting Windows and Linux. USB Host is functional but external VBus s
 
 ## Boot
 
-You need a few tools from [prinux](https://github.com/zephray/prinux) and my [U-Boot](https://github.com/imbushuo/uboot).
+You need a few tools from [prinux](https://github.com/gears-/prinux) and my [U-Boot](https://github.com/gears-/uboot).
 
 ## License
 
